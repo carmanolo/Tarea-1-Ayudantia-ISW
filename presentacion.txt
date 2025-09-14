@@ -1,0 +1,3 @@
+nombre: Carlos
+carrera: IECI
+Expectativas del ramo: Aprender más sobre frontmend e interpretacion de las necesidades del cliente.
